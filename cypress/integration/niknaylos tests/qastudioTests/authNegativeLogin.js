@@ -12,4 +12,3 @@ describe('Тестирование авторизации', function () {
 
 
 
-// german@dolnikov.ru / iLoveqastudio1
