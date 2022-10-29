@@ -9,7 +9,3 @@ describe('Тестирование авторизации', function () {
         cy.get('#exitMessageButton').click()
     })
 })
-
-
-
-// german@dolnikov.ru / iLoveqastudio1
